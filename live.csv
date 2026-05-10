@@ -227,6 +227,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17967a1f-15d2-42d8-9f54-123e16d4d838,GreenPark.live,available,39.48,,72,17,10,namecheap,,
 179fe33c-ff4e-48bc-91c1-f7772e885fec,keyserver.live,available,3.99,,70,4,10,name.com,,
 17b09ff1-413e-4e7c-b475-8e0eb32a0b73,behaviours.live,available,3.49,32.99,54,3,10,namesilo,,
+17b38580-16ca-4e45-b9ce-130c03771c15,extend.live,resell,,,84,18,6,"Sav.com, LLC - 10",30/04/2026 15:15,30/04/2027 15:15
 17b5a726-9503-4cca-8012-8b608d7c8ad4,potatosalad.live,available,3.99,,70,2,12,name.com,,
 17bedda0-1f3b-41fe-8c17-7fa2754512f2,rights.live,resell,,,50,19,6,"Sav.com, LLC",21/06/2022 19:00,21/06/2026 19:00
 17c41c79-5a18-481a-a273-2aef77d0f520,Frenchparsley.live,available,39.48,,66,1,14,namecheap,,
@@ -494,6 +495,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36938b0f-1434-4733-9475-1810324524b7,designerstubble.live,available,3.99,,66,1,16,name.com,,
 36ad9489-a335-4b40-b063-1f9b55878807,surprises.live,available,3.49,32.99,64,4,9,namesilo,,
 36b49c61-d72a-4e5f-9c89-e016b8bcab00,divinejudgement.live,available,3.99,,47,1,16,name.com,,
+37033759-09e7-4d47-9474-f71d12e6ebf5,the.live,premium,,,88,57,3,,,
 37200938-3199-414d-aec6-cf8dd4747f86,induecourse.live,available,3.99,,57,0,13,name.com,,
 375e99f1-9c8b-4d47-b5b8-0706b65cfa7b,networks.live,premium,69.3,138.6,60,20,8,namecheap,,
 3772826f-baf6-4187-bec9-ac0ab15af263,dogstooth.live,available,3.49,32.99,76,1,9,namesilo,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6aa2f392-c1ef-4bc8-be95-5601777883a5,hillclimbing.live,available,3.99,,68,2,13,name.com,,
 6ab04349-543c-4e7d-a503-ea0d69443a13,explains.live,available,3.49,32.99,50,4,8,namesilo,,
 6b475ab2-bbfa-4461-9d9e-92ad39538b4b,clearup.live,available,3.99,,76,6,8,name.com,,
-6b4fef26-6114-4b58-b0f5-27337906ad40,asperusual.live,available,3.99,,48,1,12,name.com,,
-6b5231c0-ec04-4bc0-87ec-02d9681767c2,proxyfight.live,available,3.99,,44,1,11,name.com,,
