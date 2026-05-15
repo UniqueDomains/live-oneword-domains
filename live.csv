@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-0009cfc0-6581-4daa-ba51-b037ac3734e6,whatisthat.live,available,3.99,,40,11,12,name.com,,
+0009cfc0-6581-4daa-ba51-b037ac3734e6,whatisthat.live,available,3.99,,40,5,12,name.com,,
 001311c5-e439-4d61-b474-8edec68e1909,lookouts.live,available,3.99,,52,3,8,name.com,,
 003efe13-73b0-4ee8-a1e6-ac3922fdda37,goonrecord.live,available,3.99,,70,1,12,name.com,,
 005df183-8235-4bd7-90e0-8286fe7567a9,whats.live,resell,,,58,24,5,Dynadot Inc,24/03/2019 19:40,24/03/2027 19:40
@@ -90,7 +90,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0965eaa3-8168-43b7-b4ab-a46e8b83fab1,seemed.live,available,3.99,,58,4,6,name.com,,
 09dfc03e-575e-4702-b4e2-14f6871fe6e2,commonland.live,available,3.99,,74,2,11,name.com,,
 09eb1336-bee6-486c-8e46-272324ad5c99,prosandcons.live,available,3.99,,59,3,13,name.com,,
-09ebb30c-9d7f-44d0-b734-3768cef7f994,cherryblossom.live,available,3.99,,78,20,14,name.com,,
+09ebb30c-9d7f-44d0-b734-3768cef7f994,cherryblossom.live,resell,3.99,,78,10,14,"Sav.com, LLC",23/04/2026 09:03,23/04/2027 09:03
 0a50468c-0be0-49a3-9770-1e3eaa51751f,slipitto.live,available,3.99,,64,1,10,name.com,,
 0a570ebb-dd65-4f90-8f86-349c8d585a2f,bonappetit.live,available,3.99,,86,8,11,name.com,,
 0a666d2e-ec0b-470e-8434-365b1f1af50a,comeup.live,available,3.99,,74,5,7,name.com,,
@@ -224,7 +224,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 177c4ffe-618b-4865-89fc-058dad7a103d,makenews.live,available,3.99,,80,1,9,name.com,,
 17845fcf-a2f6-4ddc-af7e-b72576e3e286,synthesized.live,available,3.99,,57,3,11,name.com,,
 178d4b2b-7b10-4fcd-b68b-7278d6860261,GodtheHolySpirit.live,available,39.48,,58,1,19,namecheap,,
-17967a1f-15d2-42d8-9f54-123e16d4d838,GreenPark.live,available,39.48,,72,17,10,namecheap,,
+17967a1f-15d2-42d8-9f54-123e16d4d838,GreenPark.live,available,39.48,,72,8,10,namecheap,,
 179fe33c-ff4e-48bc-91c1-f7772e885fec,keyserver.live,available,3.99,,70,4,10,name.com,,
 17b09ff1-413e-4e7c-b475-8e0eb32a0b73,behaviours.live,available,3.49,32.99,54,3,10,namesilo,,
 17b38580-16ca-4e45-b9ce-130c03771c15,extend.live,resell,,,84,18,6,"Sav.com, LLC - 10",30/04/2026 15:15,30/04/2027 15:15
@@ -321,7 +321,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 224badc6-8b6c-4545-918a-daffb561fc9c,brosbeforehos.live,available,3.99,,38,1,15,name.com,,
 225213b8-1712-43df-92f5-c2530d027596,filewith.live,available,3.99,,68,2,9,name.com,,
 2254cc40-9343-4f03-8b47-a7a3c741dff4,equals.live,available,3.49,32.99,62,10,6,namesilo,,
-2284aca7-aae1-411a-9377-2c09f7b75a19,childcare.live,premium,69.3,138.6,74,23,10,namecheap,,
+2284aca7-aae1-411a-9377-2c09f7b75a19,childcare.live,premium,69.3,138.6,74,19,10,namecheap,,
 228922a8-c88b-4fc4-92c4-4dcc04330087,gives.live,premium,140,280,52,12,5,namecheap,,
 22d72f50-e54c-4e5d-9b20-238a7d9ddf6a,keypress.live,available,3.99,,76,5,9,name.com,,
 22ee2329-8080-44b4-9f88-9fbf7330d814,filets.live,available,3.49,32.99,66,2,6,namesilo,,
