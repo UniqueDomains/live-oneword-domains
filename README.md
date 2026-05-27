@@ -69,20 +69,20 @@ print(df.head())
 | homes.live         | premium   | $700      | $1,400        | 86             | 34     | 5      | namecheap                                               |
 | sparkles.live      | available | $3.99     | —             | 62             | 15     | 8      | name.com                                                |
 | domain.live        | resell    | —         | —             | 80             | 66     | 6      | GoDaddy.com, LLC                                        |
-| partners.live      | premium   | $1,750    | $3,500        | 61             | 32     | 8      | namecheap                                               |
+| partners.live      | premium   | $1,750    | $3,500        | 61             | 31     | 8      | namecheap                                               |
 | HIPAA.live         | available | $3.49     | $32.99        | 60             | 15     | 5      | namesilo                                                |
 | match.live         | resell    | —         | —             | 84             | 65     | 5      | GoDaddy.com, LLC                                        |
 | SanDiego.live      | premium   | $1,750    | $3,500        | 74             | 29     | 9      | namecheap                                               |
-| sausage.live       | available | $3.99     | —             | 76             | 14     | 7      | name.com                                                |
+| appreciation.live  | available | $3.99     | —             | 88             | 14     | 12     | name.com                                                |
 | robots.live        | resell    | —         | —             | 62             | 47     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | backyard.live      | premium   | $140      | $280          | 80             | 27     | 9      | namecheap                                               |
-| gohome.live        | available | $3.99     | —             | 76             | 14     | 7      | name.com                                                |
+| sausage.live       | available | $3.99     | —             | 76             | 14     | 7      | name.com                                                |
 | coins.live         | resell    | —         | —             | 56             | 41     | 5      | Porkbun LLC                                             |
 | KFC.live           | premium   | $69.30    | $138.60       | 74             | 27     | 3      | namecheap                                               |
-| holdings.live      | available | $3.99     | —             | 52             | 14     | 8      | name.com                                                |
+| gohome.live        | available | $3.99     | —             | 76             | 14     | 7      | name.com                                                |
 | prompts.live       | resell    | —         | —             | 54             | 39     | 7      | One.com A/S                                             |
 | systems.live       | premium   | $140      | $280          | 46             | 27     | 7      | namecheap                                               |
-| appreciation.live  | available | $3.99     | —             | 88             | 13     | 12     | name.com                                                |
+| holdings.live      | available | $3.99     | —             | 52             | 14     | 8      | name.com                                                |
 | face.live          | resell    | —         | —             | 90             | 34     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
