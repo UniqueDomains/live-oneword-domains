@@ -1,10 +1,10 @@
-# Available .LIVE One-Word Domains (15,685)
+# Available .LIVE One-Word Domains (15,900)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C685%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C900%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .live one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,685 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,900 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,685 domains · **Median ask:** $49.18 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 15,900 domains · **Median ask:** $51.13 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/live`
@@ -75,13 +75,13 @@ print(df.head())
 | ale.live  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
 | amah.live | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
 | aloe.live | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 13                                   |
-| atf.live  | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                           |
+| atc.live  | premium   | $512      | $512          | high           | low    | 3      | namesilo                                            |
 | cive.live | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
 | baas.live | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                        |
-| bel.live  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                            |
+| atf.live  | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                           |
 | dike.live | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
 | bier.live | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 49                                   |
-| des.live  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| bel.live  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                            |
 | heap.live | available | $2.98     | $39.48        | high           | low    | 4      | namecheap                                           |
 | cord.live | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 20                                   |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,685 live domains                        |
+| 1,000-row public sample | 15,900 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
