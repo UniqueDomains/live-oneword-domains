@@ -1,10 +1,10 @@
-# Available .LIVE One-Word Domains (20,620)
+# Available .LIVE One-Word Domains (21,662)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C620%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C662%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .live one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,620 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,662 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,620 domains · **Median ask:** $55.58 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 21,662 domains · **Median ask:** $54.95 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/live`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| abls.live | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
-| hot.live  | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                      |
-| aac.live  | premium   | $200.50   | —             | high           | low    | 3      | unstoppable                                         |
-| ahuh.live | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
-| net.live  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| abm.live  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
-| akha.live | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
-| rob.live  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
-| ale.live  | premium   | $103.70   | $207.20       | high           | low    | 3      | spaceship                                           |
-| amah.live | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
-| sap.live  | resell    | —         | —             | high           | low    | 3      | —                                                   |
-| atc.live  | premium   | $512      | $512          | high           | low    | 3      | namesilo                                            |
-| dahl.live | available | $2.50     | $26.97        | medium         | low    | 4      | dynadot                                             |
-| aloe.live | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 13                                   |
-| caa.live  | premium   | $99.50    | —             | high           | low    | 3      | unstoppable                                         |
-| dike.live | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
-| baas.live | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                        |
-| des.live  | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
-| icbm.live | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
-| bing.live | resell    | —         | —             | high           | medium | 4      | —                                                   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| abls.live        | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
+| exploration.live | resell    | $3.49     | $32.99        | high           | low    | 11     | namesilo                                            |
+| aac.live         | premium   | $200.50   | —             | high           | low    | 3      | unstoppable                                         |
+| ahuh.live        | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
+| hot.live         | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                      |
+| abm.live         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| akha.live        | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
+| net.live         | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| ale.live         | premium   | $103.70   | $207.20       | high           | low    | 3      | spaceship                                           |
+| amah.live        | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
+| rob.live         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
+| atc.live         | premium   | $512      | $512          | high           | low    | 3      | namesilo                                            |
+| dahl.live        | available | $2.50     | $26.97        | medium         | low    | 4      | dynadot                                             |
+| sap.live         | resell    | —         | —             | high           | low    | 3      | —                                                   |
+| caa.live         | premium   | $99.50    | —             | high           | low    | 3      | unstoppable                                         |
+| dike.live        | available | $2.98     | $39.48        | medium         | low    | 4      | namecheap                                           |
+| aloe.live        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 13                                   |
+| cmt.live         | premium   | $103.70   | $207.20       | high           | low    | 3      | spaceship                                           |
+| icbm.live        | available | $3.49     | $32.99        | medium         | low    | 4      | namesilo                                            |
+| baas.live        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,620 live domains                        |
+| 1,000-row public sample | 21,662 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIVE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIVE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
